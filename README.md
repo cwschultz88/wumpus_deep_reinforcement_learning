@@ -18,6 +18,7 @@ So, the reinforcement approach still has a lot of learning left to compete again
 
 Future improvements to the code:
   - Stream line wumpus game code - taking too long to play a game
+  - Instead of outputting the Q score from the network, output the best action the agent should take. This would decrease the amount of calls the code needs to make to the Deep Network. This was suggested in the publication above and the follow-up Nature article. 
   - Apply convolutions to the deep Q network
   - Make the input into the deep Q network recurrent
   
