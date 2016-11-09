@@ -9,7 +9,7 @@ to the Wumpus Game. The Wumpus game rules can be found in the textbook "Artifici
 http://cis-linux1.temple.edu/~giorgio/cis587/readings/wumpus.shtml
 
 Best Results:
-The average score for the reinforcement agent was at 85 when the learning program crashed. This is after learning from about 25k games directly. It is important to note the score was still improving - the learning just stopped because the networked crashed and I did not implement parameter saving yet.... Just as a reference, my best hand crafted agents scored in this environment at:
+The average score for the reinforcement agent was at 85 when the learning program crashed. This is after learning from playing 25k games. It is important to note the score was still improving - the learning just stopped because the networked crashed and I did not implement parameter saving yet.... Just as a reference, my best hand crafted agents scored in this environment at:
   - Simple Reflex Agent: 160 - 180
   - Model Based Agent: 420 - 430
   - Search Based Agent: 380 - 400
